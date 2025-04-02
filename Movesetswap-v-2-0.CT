@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Left Side"</Description>
+      <DropDownList ReadOnly="1">00: paul
+01: law
+02: king
+03: yoshimitsu
+04: hworang
+05: xiayou
+06: jin
+07: bryan
+08: kazuya
+09: steve
+10: jacksss
+11: asuka
+12: devil jin
+13: feng
+14: lili
+15: draganov
+16: leo
+17: Lars
+18: alisa
+19: claudio
+20: shaheen
+21: nina
+22: lee
+23: kuma
+24: panda
+25: zafina
+26: leroy
+27: jun
+28: reina
+29: azucena
+30: victor
+31: raven
+33: eddy
+34: lidia
+35: heihachi
+36: clive
+37: anna
+</DropDownList>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Polaris-Win64-Shipping.exe"+09AB3F08</Address>
+      <Offsets>
+        <Offset>10</Offset>
+        <Offset>8</Offset>
+        <Offset>18</Offset>
+        <Offset>8</Offset>
+        <Offset>20</Offset>
+        <Offset>60</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"Right Side"</Description>
+      <DropDownList ReadOnly="1">00: paul
+01: law
+02: king
+03: yoshimitsu
+04: hworang
+05: xiayou
+06: jin
+07: bryan
+08: kazuya
+09: steve
+10: jacksss
+11: asuka
+12: devil jin
+13: feng
+14: lili
+15: draganov
+16: leo
+17: Lars
+18: alisa
+19: claudio
+20: shaheen
+21: nina
+22: lee
+23: kuma
+24: panda
+25: zafina
+26: leroy
+27: jun
+28: reina
+29: azucena
+30: victor
+31: raven
+33: eddy
+34: lidia
+35: heihachi
+36: clive
+37: anna
+</DropDownList>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Polaris-Win64-Shipping.exe"+09AB3F08</Address>
+      <Offsets>
+        <Offset>94</Offset>
+        <Offset>8</Offset>
+        <Offset>18</Offset>
+        <Offset>8</Offset>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>50</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>
