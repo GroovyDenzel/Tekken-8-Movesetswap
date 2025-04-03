@@ -13,5 +13,5 @@ How to use:
 
 Notes:
 This is just working for the current version 2.0 of Tekken 8.
-• It is very likely i have to update the table at a new update.
-• If you choose a DLC char Paul (because default 00) will be shown during the loading screen, but if you "activate" by ticking the left X the moveset of the DLC-char will be activ.
+1. It is very likely i have to update the table at a new update.
+2. If you choose a DLC char Paul (because default 00) will be shown during the loading screen, but if you "activate" by ticking the left X the moveset of the DLC-char will be activ.
