@@ -15,3 +15,4 @@ Notes:
 This is just working for the current version 2.0 of Tekken 8.
 1. It is very likely i have to update the table at a new update.
 2. If you choose a DLC char Paul (because default 00) will be shown during the loading screen, but if you "activate" by ticking the left X the moveset of the DLC-char will be activ.
+3. I always go offline in steam before i open cheat engine. I recommend to do the same. Also don't forget to quit cheat engine when you stop using it as other programs like Anticheat software don't like it for obvious reasons ;-)
