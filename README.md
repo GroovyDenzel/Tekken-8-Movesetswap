@@ -7,7 +7,7 @@ How to use:
    You don't need admin rights to use it.
 2. Start Tekken 8, select the Tekken 8 process and open the file Movesetswap-v-2-0.CT.
 3. In Tekken 8 choose any mode and character till you reach the map selection screen.
-4. In Cheat engine change the moveset of P1 and P2 in the lower left corner below the button memory view.
+4. In Cheat engine change the moveset of Left Side and/or Right Side in the lower left corner below the button memory view.
    The Value defines the moveset e.g. 6 is Jin and 14 Lili. When you click on the value a dropdown will open.
 5. If you want to switch the characters deactivate the moveset before exiting the menu after the match, otherwise the game could crash.
 
